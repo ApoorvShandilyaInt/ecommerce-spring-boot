@@ -45,7 +45,7 @@ Functionality of this project
 10. Delete a product using productId.
 
 11. User loging using email and password
-12. Put session Id into  Authorization keys vale  into the header -> Now user is loged in (untill logout or new session Id created for the user or new user loged in us)
+12. Put session Id into  Authorization keys vale  into the header -> Now user is loged in (untill logout or new session Id created for the user or new user loged in)
 
 ******* These operation is only  applicable for logedin users*******
 
